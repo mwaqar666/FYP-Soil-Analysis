@@ -3,6 +3,27 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
+        <entry key="\Data\Kaggle Dataset of N, P, K, pH, Temperature and Labels.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Mannual Readings of pH, EC and Temperature.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Manual Readings of pH, EC and Temperature.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\Kaggle Dataset of N, P, K, pH, Temperature and Labels.csv">
           <value>
             <Attribute>
